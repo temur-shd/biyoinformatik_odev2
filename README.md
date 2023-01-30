@@ -1,0 +1,1 @@
+# biyoinformatik_odev2
